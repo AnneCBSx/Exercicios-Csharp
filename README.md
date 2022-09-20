@@ -1,1 +1,1 @@
-# Aula 1 Csharp
+Exercicios com foco de treinar a linguagem de promação C#
