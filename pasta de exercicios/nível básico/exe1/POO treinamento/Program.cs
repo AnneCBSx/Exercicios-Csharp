@@ -1,4 +1,7 @@
 ﻿using System;
+using static System.Net.Mime.MediaTypeNames;
+using System.Collections.Generic;
+using System.Xml.Linq;
 
 namespace POO_treinamento
     {
@@ -10,14 +13,14 @@ namespace POO_treinamento
           //Criando instancia da conta
             Conta conta1=new Conta();
 
-            conta1.Limite = 1500;
+            conta1.Saldo = 1500;
             conta1.Limite = 2500;
             conta1.Numero = 500;
-            Console.WriteLine(conta1.Numero);
 
+            Console.WriteLine ("Seu Saldo é:" + conta1.Saldo);
 
-
-
-            }
+            Console.WriteLine ("Limite de saque:" + conta1.Limite);
+            Console.WriteLine ("Numero da conta:" + conta1.Numero);
         }
     }
+}
