@@ -6,6 +6,7 @@ namespace exconsole
         {
         static void Main(string[] args)
             {
+            /*
             string MeuNome = "Anne Caroline";
             int AnneIdade = 24;
             float Altura = 1.65f;
@@ -17,6 +18,7 @@ namespace exconsole
             Console.WriteLine (AnneIdade);
             Console.WriteLine (Altura);
             Console.WriteLine (MeuNomecompleto) ;
+            */
 
 
 

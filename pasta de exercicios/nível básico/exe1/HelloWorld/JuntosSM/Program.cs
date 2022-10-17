@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace Ola_Mundo
+namespace JuntosSM
     {
     internal class Program
         {
         static void Main(string[] args)
             {
             Console.WriteLine ("Hello World!");
-            Console.ReadLine ();
-
             }
         }
     }

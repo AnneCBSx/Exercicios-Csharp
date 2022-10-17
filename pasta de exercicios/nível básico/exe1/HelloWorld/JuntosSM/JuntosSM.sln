@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuntosSM", "JuntosSM.csproj", "{03E191FC-03CF-41A4-A49D-500BF4E1C23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E191FC-03CF-41A4-A49D-500BF4E1C23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E191FC-03CF-41A4-A49D-500BF4E1C23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E191FC-03CF-41A4-A49D-500BF4E1C23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E191FC-03CF-41A4-A49D-500BF4E1C23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62C0230-52C7-4A49-AC33-52F03DF17E41}
+	EndGlobalSection
+EndGlobal
